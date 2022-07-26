@@ -1,0 +1,10 @@
+0xAB?
+-0xab
++04ab
+0x16  0x17 0018
+
+cieciur@onet.pl     mateusz.cieciura@onet.com.pl
+
+1.11
+.10
++1.12
